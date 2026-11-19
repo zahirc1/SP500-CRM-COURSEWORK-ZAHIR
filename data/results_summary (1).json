@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "ticker_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+    "ticker_retrieved_utc": "2026-11-19T11:21:38+00:00",
+    "start": "2021-01-01",
+    "end_exclusive": "2025-01-01",
+    "price_source": "yfinance",
+    "benchmark": "^GSPC",
+    "versions": {
+      "pandas": "2.2.3",
+      "numpy": "2.4.6",
+      "yfinance": "0.2.66",
+      "matplotlib": "3.10.0",
+      "seaborn": "0.13.2",
+      "scipy": "1.16.3",
+      "sklearn": "1.6.1",
+      "python": "3.13.18"
+    },
+    "price_downloaded_utc": "2026-11-19T11:23:38+00:00",
+    "observation_date": "2024-12-31",
+    "window": [
+      "2024-10-07",
+      "2024-12-31"
+    ]
+  },
+  "inclusion": {
+    "Wikipedia constituents": 503,
+    "Passed validation": 486,
+    "Have a high-volume event": 486,
+    "Common share set (all clustering)": 486
+  },
+  "weeks": 207,
+  "k": {
+    "RR_Ward": 2,
+    "RFM_Ward": 2,
+    "RR_KMeans": 2,
+    "RFM_KMeans": 2
+  },
+  "silhouette": {
+    "RR_Ward": 0.3394852748267823,
+    "RFM_Ward": 0.36802380111590705,
+    "RR_KMeans": 0.38695000961075177,
+    "RFM_KMeans": 0.42312217312827677
+  },
+  "ari_ward_vs_kmeans": {
+    "RR": 0.59755503175211,
+    "RFM": 0.6998191613914165
+  },
+  "ari_rfm_vs_rf": 0.8734706265744828,
+  "ari_rr_vs_rfm": 0.028532063133793743,
+  "pca_variance_pct": [
+    45.79357461305493,
+    33.647299023045704
+  ],
+  "rfm_corr": {
+    "R": {
+      "R": 1.0,
+      "F": -0.3463,
+      "log1p_M": 0.1524
+    },
+    "F": {
+      "R": -0.3463,
+      "F": 1.0,
+      "log1p_M": 0.0128
+    },
+    "log1p_M": {
+      "R": 0.1524,
+      "F": 0.0128,
+      "log1p_M": 1.0
+    }
+  },
+  "summary": {
+    "count": {
+      "Mean_weekly_return": 486.0,
+      "Weekly_beta": 486.0,
+      "R": 486.0,
+      "F": 486.0,
+      "M": 486.0
+    },
+    "mean": {
+      "Mean_weekly_return": 0.002857,
+      "Weekly_beta": 0.973695,
+      "R": 20.407407,
+      "F": 2.989712,
+      "M": 39404191889.20784
+    },
+    "std": {
+      "Mean_weekly_return": 0.002652,
+      "Weekly_beta": 0.407339,
+      "R": 21.342438,
+      "F": 1.3308,
+      "M": 129138833232.9717
+    },
+    "min": {
+      "Mean_weekly_return": -0.004468,
+      "Weekly_beta": 0.055453,
+      "R": 4.0,
+      "F": 0.0,
+      "M": 1297482617.047882
+    },
+    "25%": {
+      "Mean_weekly_return": 0.001182,
+      "Weekly_beta": 0.666599,
+      "R": 11.0,
+      "F": 2.0,
+      "M": 10195173392.27047
+    },
+    "50%": {
+      "Mean_weekly_return": 0.002619,
+      "Weekly_beta": 0.95061,
+      "R": 11.0,
+      "F": 3.0,
+      "M": 16683821504.623032
+    },
+    "75%": {
+      "Mean_weekly_return": 0.004207,
+      "Weekly_beta": 1.179538,
+      "R": 14.75,
+      "F": 4.0,
+      "M": 32276893043.872356
+    },
+    "max": {
+      "Mean_weekly_return": 0.017772,
+      "Weekly_beta": 3.77856,
+      "R": 222.0,
+      "F": 8.0,
+      "M": 1847697379221.8428
+    },
+    "skew": {
+      "Mean_weekly_return": 0.864836,
+      "Weekly_beta": 1.10024,
+      "R": 3.634522,
+      "F": 0.423423,
+      "M": 11.647705
+    }
+  },
+  "profiles": {
+    "RR_Ward": {
+      "Shares": {
+        "0": 394,
+        "1": 92
+      },
+      "Mean_return_pct": {
+        "0": 0.2048,
+        "1": 0.6321
+      },
+      "Mean_beta": {
+        "0": 0.8979,
+        "1": 1.2981
+      },
+      "Median_R_days": {
+        "0": 11.0,
+        "1": 11.0
+      },
+      "Mean_F_days": {
+        "0": 2.9416,
+        "1": 3.1957
+      },
+      "Median_M_USDbn": {
+        "0": 15.3252,
+        "1": 24.1841
+      }
+    },
+    "RR_KMeans": {
+      "Shares": {
+        "0": 143,
+        "1": 343
+      },
+      "Mean_return_pct": {
+        "0": 0.533,
+        "1": 0.1826
+      },
+      "Mean_beta": {
+        "0": 1.3505,
+        "1": 0.8166
+      },
+      "Median_R_days": {
+        "0": 11.0,
+        "1": 11.0
+      },
+      "Mean_F_days": {
+        "0": 3.1469,
+        "1": 2.9242
+      },
+      "Median_M_USDbn": {
+        "0": 25.5237,
+        "1": 14.2056
+      }
+    },
+    "RFM_Ward": {
+      "Shares": {
+        "0": 404,
+        "1": 82
+      },
+      "Mean_return_pct": {
+        "0": 0.2857,
+        "1": 0.286
+      },
+      "Mean_beta": {
+        "0": 0.9666,
+        "1": 1.0089
+      },
+      "Median_R_days": {
+        "0": 11.0,
+        "1": 54.5
+      },
+      "Mean_F_days": {
+        "0": 3.1708,
+        "1": 2.0976
+      },
+      "Median_M_USDbn": {
+        "0": 16.0473,
+        "1": 17.849
+      }
+    },
+    "RFM_KMeans": {
+      "Shares": {
+        "0": 418,
+        "1": 68
+      },
+      "Mean_return_pct": {
+        "0": 0.283,
+        "1": 0.3022
+      },
+      "Mean_beta": {
+        "0": 0.9723,
+        "1": 0.9823
+      },
+      "Median_R_days": {
+        "0": 11.0,
+        "1": 55.0
+      },
+      "Mean_F_days": {
+        "0": 3.1866,
+        "1": 1.7794
+      },
+      "Median_M_USDbn": {
+        "0": 15.5696,
+        "1": 22.25
+      }
+    }
+  }
+}

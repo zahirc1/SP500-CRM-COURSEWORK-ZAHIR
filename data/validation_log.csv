@@ -1,0 +1,504 @@
+Ticker,First_date,Last_date,Reason,Security,GICS Sector
+MMM,2021-01-04,2024-12-31,,3M,Industrials
+AOS,2021-01-04,2024-12-31,,A. O. Smith,Industrials
+ABT,2021-01-04,2024-12-31,,Abbott Laboratories,Health Care
+ABBV,2021-01-04,2024-12-31,,AbbVie,Health Care
+ACN,2021-01-04,2024-12-31,,Accenture,Information Technology
+ADBE,2021-01-04,2024-12-31,,Adobe Inc.,Information Technology
+AMD,2021-01-04,2024-12-31,,Advanced Micro Devices,Information Technology
+AES,2021-01-04,2024-12-31,,AES Corporation,Utilities
+AFL,2021-01-04,2024-12-31,,Aflac,Financials
+A,2021-01-04,2024-12-31,,Agilent Technologies,Health Care
+APD,2021-01-04,2024-12-31,,Air Products,Materials
+ABNB,2021-01-04,2024-12-31,,Airbnb,Consumer Discretionary
+AKAM,2021-01-04,2024-12-31,,Akamai Technologies,Information Technology
+ALB,2021-01-04,2024-12-31,,Albemarle Corporation,Materials
+ARE,2021-01-04,2024-12-31,,Alexandria Real Estate Equities,Real Estate
+ALGN,2021-01-04,2024-12-31,,Align Technology,Health Care
+ALLE,2021-01-04,2024-12-31,,Allegion,Industrials
+LNT,2021-01-04,2024-12-31,,Alliant Energy,Utilities
+ALL,2021-01-04,2024-12-31,,Allstate,Financials
+GOOGL,2021-01-04,2024-12-31,,Alphabet Inc. (Class A),Communication Services
+GOOG,2021-01-04,2024-12-31,,Alphabet Inc. (Class C),Communication Services
+MO,2021-01-04,2024-12-31,,Altria,Consumer Staples
+AMZN,2021-01-04,2024-12-31,,Amazon,Consumer Discretionary
+AMCR,2021-01-04,2024-12-31,,Amcor,Materials
+AEE,2021-01-04,2024-12-31,,Ameren,Utilities
+AEP,2021-01-04,2024-12-31,,American Electric Power,Utilities
+AXP,2021-01-04,2024-12-31,,American Express,Financials
+AIG,2021-01-04,2024-12-31,,American International Group,Financials
+AMT,2021-01-04,2024-12-31,,American Tower,Real Estate
+AWK,2021-01-04,2024-12-31,,American Water Works,Utilities
+AMP,2021-01-04,2024-12-31,,Ameriprise Financial,Financials
+AME,2021-01-04,2024-12-31,,Ametek,Industrials
+AMGN,2021-01-04,2024-12-31,,Amgen,Health Care
+APH,2021-01-04,2024-12-31,,Amphenol,Information Technology
+ADI,2021-01-04,2024-12-31,,Analog Devices,Information Technology
+AON,2021-01-04,2024-12-31,,Aon plc,Financials
+APA,2021-01-04,2024-12-31,,APA Corporation,Energy
+APO,2021-01-04,2024-12-31,,Apollo Global Management,Financials
+AAPL,2021-01-04,2024-12-31,,Apple Inc.,Information Technology
+AMAT,2021-01-04,2024-12-31,,Applied Materials,Information Technology
+APP,2021-04-15,2024-12-31,incomplete history; missing values,AppLovin,Communication Services
+APTV,2021-01-04,2024-12-31,,Aptiv,Consumer Discretionary
+ACGL,2021-01-04,2024-12-31,,Arch Capital Group,Financials
+ADM,2021-01-04,2024-12-31,,Archer Daniels Midland,Consumer Staples
+ARES,2021-01-04,2024-12-31,,Ares Management,Financials
+ANET,2021-01-04,2024-12-31,,Arista Networks,Information Technology
+AJG,2021-01-04,2024-12-31,,Arthur J. Gallagher & Co.,Financials
+AIZ,2021-01-04,2024-12-31,,Assurant,Financials
+T,2021-01-04,2024-12-31,,AT&T,Communication Services
+ATO,2021-01-04,2024-12-31,,Atmos Energy,Utilities
+ADSK,2021-01-04,2024-12-31,,Autodesk,Information Technology
+ADP,2021-01-04,2024-12-31,,Automatic Data Processing,Industrials
+AZO,2021-01-04,2024-12-31,,AutoZone,Consumer Discretionary
+AVY,2021-01-04,2024-12-31,,Avery Dennison,Materials
+AXON,2021-01-04,2024-12-31,,Axon Enterprise,Industrials
+BKR,2021-01-04,2024-12-31,,Baker Hughes,Energy
+BALL,2021-01-04,2024-12-31,,Ball Corporation,Materials
+BAC,2021-01-04,2024-12-31,,Bank of America,Financials
+BAX,2021-01-04,2024-12-31,,Baxter International,Health Care
+BDX,2021-01-04,2024-12-31,,Becton Dickinson,Health Care
+BRK-B,2021-01-04,2024-12-31,,Berkshire Hathaway,Financials
+BBY,2021-01-04,2024-12-31,,Best Buy,Consumer Discretionary
+TECH,2021-01-04,2024-12-31,,Bio-Techne,Health Care
+BIIB,2021-01-04,2024-12-31,,Biogen,Health Care
+BLK,2021-01-04,2024-12-31,,BlackRock,Financials
+BX,2021-01-04,2024-12-31,,Blackstone Inc.,Financials
+XYZ,2021-01-04,2024-12-31,,"Block, Inc.",Financials
+BE,2021-01-04,2024-12-31,,Bloom Energy,Industrials
+BNY,2021-01-04,2024-12-31,,BNY Mellon,Financials
+BA,2021-01-04,2024-12-31,,Boeing,Industrials
+BKNG,2021-01-04,2024-12-31,,Booking Holdings,Consumer Discretionary
+BSX,2021-01-04,2024-12-31,,Boston Scientific,Health Care
+BMY,2021-01-04,2024-12-31,,Bristol Myers Squibb,Health Care
+AVGO,2021-01-04,2024-12-31,,Broadcom,Information Technology
+BR,2021-01-04,2024-12-31,,Broadridge Financial Solutions,Industrials
+BRO,2021-01-04,2024-12-31,,Brown & Brown,Financials
+BF-B,2021-01-04,2024-12-31,,Brown–Forman,Consumer Staples
+BG,2021-01-04,2024-12-31,,Bunge Global,Consumer Staples
+BXP,2021-01-04,2024-12-31,,"BXP, Inc.",Real Estate
+CHRW,2021-01-04,2024-12-31,,C.H. Robinson,Industrials
+CDNS,2021-01-04,2024-12-31,,Cadence Design Systems,Information Technology
+CPT,2021-01-04,2024-12-31,,Camden Property Trust,Real Estate
+COF,2021-01-04,2024-12-31,,Capital One,Financials
+CAH,2021-01-04,2024-12-31,,Cardinal Health,Health Care
+CCL,2021-01-04,2024-12-31,,Carnival Corporation,Consumer Discretionary
+CARR,2021-01-04,2024-12-31,,Carrier Global,Industrials
+CVNA,2021-01-04,2024-12-31,,Carvana,Consumer Discretionary
+CASY,2021-01-04,2024-12-31,,Casey's,Consumer Staples
+CAT,2021-01-04,2024-12-31,,Caterpillar Inc.,Industrials
+CBOE,2021-01-04,2024-12-31,,Cboe Global Markets,Financials
+CBRE,2021-01-04,2024-12-31,,CBRE Group,Real Estate
+CDW,2021-01-04,2024-12-31,,CDW Corporation,Information Technology
+COR,2021-01-04,2024-12-31,,Cencora,Health Care
+CNC,2021-01-04,2024-12-31,,Centene Corporation,Health Care
+CNP,2021-01-04,2024-12-31,,CenterPoint Energy,Utilities
+CF,2021-01-04,2024-12-31,,CF Industries,Materials
+CRL,2021-01-04,2024-12-31,,Charles River Laboratories,Health Care
+SCHW,2021-01-04,2024-12-31,,Charles Schwab Corporation,Financials
+CHTR,2021-01-04,2024-12-31,,Charter Communications,Communication Services
+CVX,2021-01-04,2024-12-31,,Chevron Corporation,Energy
+CMG,2021-01-04,2024-12-31,,Chipotle Mexican Grill,Consumer Discretionary
+CB,2021-01-04,2024-12-31,,Chubb Limited,Financials
+CHD,2021-01-04,2024-12-31,,Church & Dwight,Consumer Staples
+CIEN,2021-01-04,2024-12-31,,Ciena,Information Technology
+CI,2021-01-04,2024-12-31,,Cigna,Health Care
+CINF,2021-01-04,2024-12-31,,Cincinnati Financial,Financials
+CTAS,2021-01-04,2024-12-31,,Cintas,Industrials
+CSCO,2021-01-04,2024-12-31,,Cisco,Information Technology
+C,2021-01-04,2024-12-31,,Citigroup,Financials
+CFG,2021-01-04,2024-12-31,,Citizens Financial Group,Financials
+CLX,2021-01-04,2024-12-31,,Clorox,Consumer Staples
+CME,2021-01-04,2024-12-31,,CME Group,Financials
+CMS,2021-01-04,2024-12-31,,CMS Energy,Utilities
+KO,2021-01-04,2024-12-31,,Coca-Cola Company (The),Consumer Staples
+CTSH,2021-01-04,2024-12-31,,Cognizant,Information Technology
+COHR,2021-01-04,2024-12-31,,Coherent Corp.,Information Technology
+COIN,2021-04-14,2024-12-31,incomplete history; missing values,Coinbase,Financials
+CL,2021-01-04,2024-12-31,,Colgate-Palmolive,Consumer Staples
+CMCSA,2021-01-04,2024-12-31,,Comcast,Communication Services
+FIX,2021-01-04,2024-12-31,,Comfort Systems USA,Industrials
+COP,2021-01-04,2024-12-31,,ConocoPhillips,Energy
+ED,2021-01-04,2024-12-31,,Consolidated Edison,Utilities
+STZ,2021-01-04,2024-12-31,,Constellation Brands,Consumer Staples
+CEG,2022-01-19,2024-12-31,incomplete history; missing values,Constellation Energy,Utilities
+COO,2021-01-04,2024-12-31,,Cooper Companies (The),Health Care
+CPRT,2021-01-04,2024-12-31,,Copart,Industrials
+GLW,2021-01-04,2024-12-31,,Corning Inc.,Information Technology
+CPAY,2021-01-04,2024-12-31,,Corpay,Financials
+CSGP,2021-01-04,2024-12-31,,CoStar Group,Real Estate
+COST,2021-01-04,2024-12-31,,Costco,Consumer Staples
+CRH,2021-01-04,2024-12-31,,CRH plc,Materials
+CRWD,2021-01-04,2024-12-31,,CrowdStrike,Information Technology
+CCI,2021-01-04,2024-12-31,,Crown Castle,Real Estate
+CSX,2021-01-04,2024-12-31,,CSX Corporation,Industrials
+CMI,2021-01-04,2024-12-31,,Cummins,Industrials
+CVS,2021-01-04,2024-12-31,,CVS Health,Health Care
+DHR,2021-01-04,2024-12-31,,Danaher Corporation,Health Care
+DRI,2021-01-04,2024-12-31,,Darden Restaurants,Consumer Discretionary
+DDOG,2021-01-04,2024-12-31,,Datadog,Information Technology
+DVA,2021-01-04,2024-12-31,,DaVita,Health Care
+DECK,2021-01-04,2024-12-31,,Deckers Brands,Consumer Discretionary
+DE,2021-01-04,2024-12-31,,Deere & Company,Industrials
+DELL,2021-01-04,2024-12-31,,Dell Technologies,Information Technology
+DAL,2021-01-04,2024-12-31,,Delta Air Lines,Industrials
+DVN,2021-01-04,2024-12-31,,Devon Energy,Energy
+DXCM,2021-01-04,2024-12-31,,Dexcom,Health Care
+FANG,2021-01-04,2024-12-31,,Diamondback Energy,Energy
+DLR,2021-01-04,2024-12-31,,Digital Realty,Real Estate
+DG,2021-01-04,2024-12-31,,Dollar General,Consumer Staples
+DLTR,2021-01-04,2024-12-31,,Dollar Tree,Consumer Staples
+D,2021-01-04,2024-12-31,,Dominion Energy,Utilities
+DPZ,2021-01-04,2024-12-31,,Domino's,Consumer Discretionary
+DASH,2021-01-04,2024-12-31,,DoorDash,Consumer Discretionary
+DOV,2021-01-04,2024-12-31,,Dover Corporation,Industrials
+DOW,2021-01-04,2024-12-31,,Dow Inc.,Materials
+DHI,2021-01-04,2024-12-31,,D. R. Horton,Consumer Discretionary
+DTE,2021-01-04,2024-12-31,,DTE Energy,Utilities
+DUK,2021-01-04,2024-12-31,,Duke Energy,Utilities
+DD,2021-01-04,2024-12-31,,DuPont,Industrials
+ETN,2021-01-04,2024-12-31,,Eaton Corporation,Industrials
+EBAY,2021-01-04,2024-12-31,,eBay Inc.,Consumer Discretionary
+ECHO,2021-01-04,2024-12-31,,EchoStar,Communication Services
+ECL,2021-01-04,2024-12-31,,Ecolab,Materials
+EIX,2021-01-04,2024-12-31,,Edison International,Utilities
+EW,2021-01-04,2024-12-31,,Edwards Lifesciences,Health Care
+ELV,2021-01-04,2024-12-31,,Elevance Health,Health Care
+EME,2021-01-04,2024-12-31,,Emcor,Industrials
+EMR,2021-01-04,2024-12-31,,Emerson Electric,Industrials
+ETR,2021-01-04,2024-12-31,,Entergy,Utilities
+EOG,2021-01-04,2024-12-31,,EOG Resources,Energy
+EQT,2021-01-04,2024-12-31,,EQT Corporation,Energy
+EFX,2021-01-04,2024-12-31,,Equifax,Industrials
+EQIX,2021-01-04,2024-12-31,,Equinix,Real Estate
+ERIE,2021-01-04,2024-12-31,,Erie Indemnity,Financials
+ESS,2021-01-04,2024-12-31,,Essex Property Trust,Real Estate
+EL,2021-01-04,2024-12-31,,Estée Lauder Companies (The),Consumer Staples
+EG,2021-01-04,2024-12-31,,Everest Group,Financials
+EVRG,2021-01-04,2024-12-31,,Evergy,Utilities
+P,2021-01-04,2024-12-31,,Everpure,Information Technology
+ES,2021-01-04,2024-12-31,,Eversource Energy,Utilities
+EXC,2021-01-04,2024-12-31,,Exelon,Utilities
+EXE,2021-02-10,2024-12-31,incomplete history; missing values,Expand Energy,Energy
+EXPE,2021-01-04,2024-12-31,,Expedia Group,Consumer Discretionary
+EXPD,2021-01-04,2024-12-31,,Expeditors International,Industrials
+EXR,2021-01-04,2024-12-31,,Extra Space Storage,Real Estate
+XOM,2021-01-04,2024-12-31,,ExxonMobil,Energy
+FFIV,2021-01-04,2024-12-31,,"F5, Inc.",Information Technology
+FDS,2021-01-04,2024-12-31,,FactSet,Financials
+FICO,2021-01-04,2024-12-31,,Fair Isaac,Information Technology
+FAST,2021-01-04,2024-12-31,,Fastenal,Industrials
+FRT,2021-01-04,2024-12-31,,Federal Realty Investment Trust,Real Estate
+FDX,2021-01-04,2024-12-31,,FedEx,Industrials
+FDXF,,,no data,FedEx Freight,Industrials
+FERG,2021-01-04,2024-12-31,volume error,Ferguson Enterprises,Industrials
+FIS,2021-01-04,2024-12-31,,Fidelity National Information Services,Financials
+FITB,2021-01-04,2024-12-31,,Fifth Third Bancorp,Financials
+FSLR,2021-01-04,2024-12-31,,First Solar,Information Technology
+FE,2021-01-04,2024-12-31,,FirstEnergy,Utilities
+FISV,2021-01-04,2024-12-31,,Fiserv,Financials
+FLEX,2021-01-04,2024-12-31,,Flex Ltd.,Information Technology
+F,2021-01-04,2024-12-31,,Ford Motor Company,Consumer Discretionary
+FTNT,2021-01-04,2024-12-31,,Fortinet,Information Technology
+FTV,2021-01-04,2024-12-31,,Fortive,Industrials
+FOXA,2021-01-04,2024-12-31,,Fox Corporation (Class A),Communication Services
+FOX,2021-01-04,2024-12-31,,Fox Corporation (Class B),Communication Services
+BEN,2021-01-04,2024-12-31,,Franklin Resources,Financials
+FCX,2021-01-04,2024-12-31,,Freeport-McMoRan,Materials
+GRMN,2021-01-04,2024-12-31,,Garmin,Consumer Discretionary
+IT,2021-01-04,2024-12-31,,Gartner,Information Technology
+GE,2021-01-04,2024-12-31,,GE Aerospace,Industrials
+GEHC,2022-12-15,2024-12-31,incomplete history; missing values,GE HealthCare,Health Care
+GEV,2024-03-27,2024-12-31,incomplete history; missing values,GE Vernova,Industrials
+GEN,2021-01-04,2024-12-31,,Gen Digital,Information Technology
+GNRC,2021-01-04,2024-12-31,,Generac,Industrials
+GD,2021-01-04,2024-12-31,,General Dynamics,Industrials
+GIS,2021-01-04,2024-12-31,,General Mills,Consumer Staples
+GM,2021-01-04,2024-12-31,,General Motors,Consumer Discretionary
+GPC,2021-01-04,2024-12-31,,Genuine Parts Company,Consumer Discretionary
+GILD,2021-01-04,2024-12-31,,Gilead Sciences,Health Care
+GPN,2021-01-04,2024-12-31,,Global Payments,Financials
+GL,2021-01-04,2024-12-31,,Globe Life,Financials
+GDDY,2021-01-04,2024-12-31,,GoDaddy,Information Technology
+GS,2021-01-04,2024-12-31,,Goldman Sachs,Financials
+HAL,2021-01-04,2024-12-31,,Halliburton,Energy
+HIG,2021-01-04,2024-12-31,,Hartford (The),Financials
+HAS,2021-01-04,2024-12-31,,Hasbro,Consumer Discretionary
+HCA,2021-01-04,2024-12-31,,HCA Healthcare,Health Care
+DOC,2021-01-04,2024-12-31,,Healthpeak Properties,Real Estate
+HSIC,2021-01-04,2024-12-31,,Henry Schein,Health Care
+HSY,2021-01-04,2024-12-31,,Hershey Company (The),Consumer Staples
+HPE,2021-01-04,2024-12-31,,Hewlett Packard Enterprise,Information Technology
+HLT,2021-01-04,2024-12-31,,Hilton Worldwide,Consumer Discretionary
+HD,2021-01-04,2024-12-31,,Home Depot (The),Consumer Discretionary
+HONA,,,no data,Honeywell Aerospace,Industrials
+HON,2021-01-04,2024-12-31,,Honeywell Technologies,Industrials
+HRL,2021-01-04,2024-12-31,,Hormel Foods,Consumer Staples
+HST,2021-01-04,2024-12-31,,Host Hotels & Resorts,Real Estate
+HWM,2021-01-04,2024-12-31,,Howmet Aerospace,Industrials
+HPQ,2021-01-04,2024-12-31,,HP Inc.,Information Technology
+HUBB,2021-01-04,2024-12-31,,Hubbell Incorporated,Industrials
+HUM,2021-01-04,2024-12-31,,Humana,Health Care
+HBAN,2021-01-04,2024-12-31,,Huntington Bancshares,Financials
+HII,2021-01-04,2024-12-31,,Huntington Ingalls Industries,Industrials
+IBM,2021-01-04,2024-12-31,,IBM,Information Technology
+IEX,2021-01-04,2024-12-31,,IDEX Corporation,Industrials
+IDXX,2021-01-04,2024-12-31,,Idexx Laboratories,Health Care
+ITW,2021-01-04,2024-12-31,,Illinois Tool Works,Industrials
+ILMN,2021-01-04,2024-12-31,,"Illumina, Inc.",Health Care
+INCY,2021-01-04,2024-12-31,,Incyte,Health Care
+IR,2021-01-04,2024-12-31,,Ingersoll Rand,Industrials
+PODD,2021-01-04,2024-12-31,,Insulet Corporation,Health Care
+INTC,2021-01-04,2024-12-31,,Intel,Information Technology
+IBKR,2021-01-04,2024-12-31,,Interactive Brokers,Financials
+ICE,2021-01-04,2024-12-31,,Intercontinental Exchange,Financials
+IFF,2021-01-04,2024-12-31,,International Flavors & Fragrances,Materials
+IP,2021-01-04,2024-12-31,,International Paper,Materials
+INTU,2021-01-04,2024-12-31,,Intuit,Information Technology
+ISRG,2021-01-04,2024-12-31,,Intuitive Surgical,Health Care
+IVZ,2021-01-04,2024-12-31,,Invesco,Financials
+INVH,2021-01-04,2024-12-31,,Invitation Homes,Real Estate
+IQV,2021-01-04,2024-12-31,,IQVIA,Health Care
+IRM,2021-01-04,2024-12-31,,Iron Mountain,Real Estate
+JBHT,2021-01-04,2024-12-31,,J.B. Hunt,Industrials
+JBL,2021-01-04,2024-12-31,,Jabil,Information Technology
+JKHY,2021-01-04,2024-12-31,,Jack Henry & Associates,Financials
+J,2021-01-04,2024-12-31,,Jacobs Solutions,Industrials
+JNJ,2021-01-04,2024-12-31,,Johnson & Johnson,Health Care
+JCI,2021-01-04,2024-12-31,,Johnson Controls,Industrials
+JPM,2021-01-04,2024-12-31,,JPMorgan Chase,Financials
+KDP,2021-01-04,2024-12-31,,Keurig Dr Pepper,Consumer Staples
+KEY,2021-01-04,2024-12-31,,KeyCorp,Financials
+KEYS,2021-01-04,2024-12-31,,Keysight Technologies,Information Technology
+KMB,2021-01-04,2024-12-31,,Kimberly-Clark,Consumer Staples
+KIM,2021-01-04,2024-12-31,,Kimco Realty,Real Estate
+KMI,2021-01-04,2024-12-31,,Kinder Morgan,Energy
+KKR,2021-01-04,2024-12-31,,KKR & Co.,Financials
+KLAC,2021-01-04,2024-12-31,,KLA Corporation,Information Technology
+KHC,2021-01-04,2024-12-31,,Kraft Heinz,Consumer Staples
+KR,2021-01-04,2024-12-31,,Kroger,Consumer Staples
+LHX,2021-01-04,2024-12-31,,L3Harris,Industrials
+LH,2021-01-04,2024-12-31,,Labcorp,Health Care
+LRCX,2021-01-04,2024-12-31,,Lam Research,Information Technology
+LVS,2021-01-04,2024-12-31,,Las Vegas Sands,Consumer Discretionary
+LDOS,2021-01-04,2024-12-31,,Leidos,Industrials
+LEN,2021-01-04,2024-12-31,,Lennar,Consumer Discretionary
+LII,2021-01-04,2024-12-31,,Lennox International,Industrials
+LLY,2021-01-04,2024-12-31,,Lilly (Eli),Health Care
+LIN,2021-01-04,2024-12-31,,Linde plc,Materials
+LYV,2021-01-04,2024-12-31,,Live Nation Entertainment,Communication Services
+LMT,2021-01-04,2024-12-31,,Lockheed Martin,Industrials
+L,2021-01-04,2024-12-31,,Loews Corporation,Financials
+LOW,2021-01-04,2024-12-31,,Lowe's,Consumer Discretionary
+LULU,2021-01-04,2024-12-31,,Lululemon Athletica,Consumer Discretionary
+LITE,2021-01-04,2024-12-31,,Lumentum,Information Technology
+LYB,2021-01-04,2024-12-31,,LyondellBasell,Materials
+MTB,2021-01-04,2024-12-31,,M&T Bank,Financials
+MPC,2021-01-04,2024-12-31,,Marathon Petroleum,Energy
+MAR,2021-01-04,2024-12-31,,Marriott International,Consumer Discretionary
+MRSH,2021-01-04,2024-12-31,,Marsh McLennan,Financials
+MLM,2021-01-04,2024-12-31,,Martin Marietta Materials,Materials
+MRVL,2021-01-04,2024-12-31,,Marvell Technology,Information Technology
+MAS,2021-01-04,2024-12-31,,Masco,Industrials
+MA,2021-01-04,2024-12-31,,Mastercard,Financials
+MKC,2021-01-04,2024-12-31,,McCormick & Company,Consumer Staples
+MCD,2021-01-04,2024-12-31,,McDonald's,Consumer Discretionary
+MCK,2021-01-04,2024-12-31,,McKesson,Health Care
+MDT,2021-01-04,2024-12-31,,Medtronic,Health Care
+MRK,2021-01-04,2024-12-31,,Merck & Co.,Health Care
+META,2021-01-04,2024-12-31,,Meta Platforms,Communication Services
+MET,2021-01-04,2024-12-31,,MetLife,Financials
+MTD,2021-01-04,2024-12-31,,Mettler Toledo,Health Care
+MGM,2021-01-04,2024-12-31,,MGM Resorts,Consumer Discretionary
+MCHP,2021-01-04,2024-12-31,,Microchip Technology,Information Technology
+MU,2021-01-04,2024-12-31,,Micron Technology,Information Technology
+MSFT,2021-01-04,2024-12-31,,Microsoft,Information Technology
+MAA,2021-01-04,2024-12-31,,Mid-America Apartment Communities,Real Estate
+MRNA,2021-01-04,2024-12-31,,Moderna,Health Care
+MDLZ,2021-01-04,2024-12-31,,Mondelez International,Consumer Staples
+MPWR,2021-01-04,2024-12-31,,Monolithic Power Systems,Information Technology
+MNST,2021-01-04,2024-12-31,,Monster Beverage,Consumer Staples
+MCO,2021-01-04,2024-12-31,,Moody's Corporation,Financials
+MS,2021-01-04,2024-12-31,,Morgan Stanley,Financials
+MOS,2021-01-04,2024-12-31,,Mosaic Company (The),Materials
+MSI,2021-01-04,2024-12-31,,Motorola Solutions,Information Technology
+MSCI,2021-01-04,2024-12-31,,MSCI,Financials
+NDAQ,2021-01-04,2024-12-31,,"Nasdaq, Inc.",Financials
+NTAP,2021-01-04,2024-12-31,,NetApp,Information Technology
+NFLX,2021-01-04,2024-12-31,,Netflix,Communication Services
+NEM,2021-01-04,2024-12-31,,Newmont,Materials
+NWSA,2021-01-04,2024-12-31,,News Corp (Class A),Communication Services
+NWS,2021-01-04,2024-12-31,,News Corp (Class B),Communication Services
+NEE,2021-01-04,2024-12-31,,NextEra Energy,Utilities
+NKE,2021-01-04,2024-12-31,,"Nike, Inc.",Consumer Discretionary
+NI,2021-01-04,2024-12-31,,NiSource,Utilities
+NDSN,2021-01-04,2024-12-31,,Nordson Corporation,Industrials
+NSC,2021-01-04,2024-12-31,,Norfolk Southern,Industrials
+NTRS,2021-01-04,2024-12-31,,Northern Trust,Financials
+NOC,2021-01-04,2024-12-31,,Northrop Grumman,Industrials
+NCLH,2021-01-04,2024-12-31,,Norwegian Cruise Line Holdings,Consumer Discretionary
+NRG,2021-01-04,2024-12-31,,NRG Energy,Utilities
+NUE,2021-01-04,2024-12-31,,Nucor,Materials
+NVDA,2021-01-04,2024-12-31,,Nvidia,Information Technology
+NVR,2021-01-04,2024-12-31,,"NVR, Inc.",Consumer Discretionary
+NXPI,2021-01-04,2024-12-31,,NXP Semiconductors,Information Technology
+ORLY,2021-01-04,2024-12-31,,O'Reilly Automotive,Consumer Discretionary
+OXY,2021-01-04,2024-12-31,,Occidental Petroleum,Energy
+OKTA,2021-01-04,2024-12-31,,"Okta, Inc.",Information Technology
+ODFL,2021-01-04,2024-12-31,,Old Dominion,Industrials
+OMC,2021-01-04,2024-12-31,,Omnicom Group,Communication Services
+ON,2021-01-04,2024-12-31,,ON Semiconductor,Information Technology
+OKE,2021-01-04,2024-12-31,,Oneok,Energy
+ORCL,2021-01-04,2024-12-31,,Oracle Corporation,Information Technology
+OTIS,2021-01-04,2024-12-31,,Otis Worldwide,Industrials
+PCAR,2021-01-04,2024-12-31,,Paccar,Industrials
+PKG,2021-01-04,2024-12-31,,Packaging Corporation of America,Materials
+PLTR,2021-01-04,2024-12-31,,Palantir Technologies,Information Technology
+PANW,2021-01-04,2024-12-31,,Palo Alto Networks,Information Technology
+PH,2021-01-04,2024-12-31,,Parker Hannifin,Industrials
+PAYX,2021-01-04,2024-12-31,,Paychex,Industrials
+PYPL,2021-01-04,2024-12-31,,PayPal,Financials
+PNR,2021-01-04,2024-12-31,,Pentair,Industrials
+PEP,2021-01-04,2024-12-31,,PepsiCo,Consumer Staples
+PFE,2021-01-04,2024-12-31,,Pfizer,Health Care
+PCG,2021-01-04,2024-12-31,,PG&E Corporation,Utilities
+PM,2021-01-04,2024-12-31,,Philip Morris International,Consumer Staples
+PSX,2021-01-04,2024-12-31,,Phillips 66,Energy
+PNW,2021-01-04,2024-12-31,,Pinnacle West Capital,Utilities
+PNC,2021-01-04,2024-12-31,,PNC Financial Services,Financials
+PPG,2021-01-04,2024-12-31,,PPG Industries,Materials
+PPL,2021-01-04,2024-12-31,,PPL Corporation,Utilities
+PFG,2021-01-04,2024-12-31,,Principal Financial Group,Financials
+PG,2021-01-04,2024-12-31,,Procter & Gamble,Consumer Staples
+PGR,2021-01-04,2024-12-31,,Progressive Corporation,Financials
+PLD,2021-01-04,2024-12-31,,Prologis,Real Estate
+PRU,2021-01-04,2024-12-31,,Prudential Financial,Financials
+PTC,2021-01-04,2024-12-31,,PTC Inc.,Information Technology
+PEG,2021-01-04,2024-12-31,,Public Service Enterprise Group,Utilities
+PSA,2021-01-04,2024-12-31,,Public Storage,Real Estate
+PHM,2021-01-04,2024-12-31,,PulteGroup,Consumer Discretionary
+Q,,,no data,Qnity Electronics,Information Technology
+QCOM,2021-01-04,2024-12-31,,Qualcomm,Information Technology
+PWR,2021-01-04,2024-12-31,,Quanta Services,Industrials
+DGX,2021-01-04,2024-12-31,,Quest Diagnostics,Health Care
+RL,2021-01-04,2024-12-31,,Ralph Lauren Corporation,Consumer Discretionary
+RJF,2021-01-04,2024-12-31,,Raymond James Financial,Financials
+RDDT,2024-03-21,2024-12-31,incomplete history; missing values,Reddit,Communication Services
+O,2021-01-04,2024-12-31,,Realty Income,Real Estate
+REG,2021-01-04,2024-12-31,,Regency Centers,Real Estate
+REGN,2021-01-04,2024-12-31,,Regeneron Pharmaceuticals,Health Care
+RF,2021-01-04,2024-12-31,,Regions Financial Corporation,Financials
+RSG,2021-01-04,2024-12-31,,Republic Services,Industrials
+RMD,2021-01-04,2024-12-31,,ResMed,Health Care
+RVTY,2021-01-04,2024-12-31,,Revvity,Health Care
+HOOD,2021-07-29,2024-12-31,incomplete history; missing values,Robinhood Markets,Financials
+ROK,2021-01-04,2024-12-31,,Rockwell Automation,Industrials
+ROL,2021-01-04,2024-12-31,,"Rollins, Inc.",Industrials
+ROP,2021-01-04,2024-12-31,,Roper Technologies,Information Technology
+ROST,2021-01-04,2024-12-31,,Ross Stores,Consumer Discretionary
+RCL,2021-01-04,2024-12-31,,Royal Caribbean Group,Consumer Discretionary
+RTX,2021-01-04,2024-12-31,,RTX Corporation,Industrials
+SPGI,2021-01-04,2024-12-31,,S&P Global,Financials
+CRM,2021-01-04,2024-12-31,,Salesforce,Information Technology
+SNDK,,,no data,Sandisk,Information Technology
+SBAC,2021-01-04,2024-12-31,,SBA Communications,Real Estate
+SLB,2021-01-04,2024-12-31,,Schlumberger,Energy
+STX,2021-01-04,2024-12-31,,Seagate Technology,Information Technology
+SRE,2021-01-04,2024-12-31,,Sempra,Utilities
+NOW,2021-01-04,2024-12-31,,ServiceNow,Information Technology
+SHW,2021-01-04,2024-12-31,,Sherwin-Williams,Materials
+SPG,2021-01-04,2024-12-31,,Simon Property Group,Real Estate
+SKYD,2021-01-04,2024-12-31,,Skydance,Communication Services
+SWKS,2021-01-04,2024-12-31,,Skyworks Solutions,Information Technology
+SJM,2021-01-04,2024-12-31,,J.M. Smucker Company (The),Consumer Staples
+SW,2021-01-04,2024-12-31,volume error,Smurfit Westrock,Materials
+SNA,2021-01-04,2024-12-31,,Snap-on,Industrials
+SOLV,2024-03-26,2024-12-31,incomplete history; missing values,Solventum,Health Care
+SO,2021-01-04,2024-12-31,,Southern Company,Utilities
+LUV,2021-01-04,2024-12-31,,Southwest Airlines,Industrials
+SWK,2021-01-04,2024-12-31,,Stanley Black & Decker,Industrials
+SBUX,2021-01-04,2024-12-31,,Starbucks,Consumer Discretionary
+STT,2021-01-04,2024-12-31,,State Street Corporation,Financials
+STLD,2021-01-04,2024-12-31,,Steel Dynamics,Materials
+STE,2021-01-04,2024-12-31,,Steris,Health Care
+SYK,2021-01-04,2024-12-31,,Stryker Corporation,Health Care
+SMCI,2021-01-04,2024-12-31,,Supermicro,Information Technology
+SYF,2021-01-04,2024-12-31,,Synchrony Financial,Financials
+SNPS,2021-01-04,2024-12-31,,Synopsys,Information Technology
+SYY,2021-01-04,2024-12-31,,Sysco,Consumer Staples
+TMUS,2021-01-04,2024-12-31,,T-Mobile US,Communication Services
+TROW,2021-01-04,2024-12-31,,T. Rowe Price,Financials
+TTWO,2021-01-04,2024-12-31,,Take-Two Interactive,Communication Services
+TPR,2021-01-04,2024-12-31,,"Tapestry, Inc.",Consumer Discretionary
+TRGP,2021-01-04,2024-12-31,,Targa Resources,Energy
+TGT,2021-01-04,2024-12-31,,Target Corporation,Consumer Staples
+TEL,2021-01-04,2024-12-31,,TE Connectivity,Information Technology
+TDY,2021-01-04,2024-12-31,,Teledyne Technologies,Information Technology
+TER,2021-01-04,2024-12-31,,Teradyne,Information Technology
+TSLA,2021-01-04,2024-12-31,,"Tesla, Inc.",Consumer Discretionary
+TXN,2021-01-04,2024-12-31,,Texas Instruments,Information Technology
+TPL,2021-01-04,2024-12-31,,Texas Pacific Land Corporation,Energy
+TXT,2021-01-04,2024-12-31,,Textron,Industrials
+TMO,2021-01-04,2024-12-31,,Thermo Fisher Scientific,Health Care
+TJX,2021-01-04,2024-12-31,,TJX Companies,Consumer Discretionary
+TKO,2021-01-04,2024-12-31,,TKO Group Holdings,Communication Services
+TSCO,2021-01-04,2024-12-31,,Tractor Supply,Consumer Discretionary
+TT,2021-01-04,2024-12-31,,Trane Technologies,Industrials
+TDG,2021-01-04,2024-12-31,,TransDigm Group,Industrials
+TRV,2021-01-04,2024-12-31,,Travelers Companies (The),Financials
+TRMB,2021-01-04,2024-12-31,,Trimble Inc.,Information Technology
+TFC,2021-01-04,2024-12-31,,Truist Financial,Financials
+TWLO,2021-01-04,2024-12-31,,Twilio,Information Technology
+TYL,2021-01-04,2024-12-31,,Tyler Technologies,Information Technology
+TSN,2021-01-04,2024-12-31,,Tyson Foods,Consumer Staples
+USB,2021-01-04,2024-12-31,,U.S. Bancorp,Financials
+UBER,2021-01-04,2024-12-31,,Uber,Industrials
+UDR,2021-01-04,2024-12-31,,"UDR, Inc.",Real Estate
+ULTA,2021-01-04,2024-12-31,,Ulta Beauty,Consumer Discretionary
+UNP,2021-01-04,2024-12-31,,Union Pacific Corporation,Industrials
+UAL,2021-01-04,2024-12-31,,United Airlines Holdings,Industrials
+UPS,2021-01-04,2024-12-31,,United Parcel Service,Industrials
+URI,2021-01-04,2024-12-31,,United Rentals,Industrials
+UNH,2021-01-04,2024-12-31,,UnitedHealth Group,Health Care
+UHS,2021-01-04,2024-12-31,,Universal Health Services,Health Care
+VLO,2021-01-04,2024-12-31,,Valero Energy,Energy
+VEEV,2021-01-04,2024-12-31,,Veeva Systems,Health Care
+VTR,2021-01-04,2024-12-31,,Ventas,Real Estate
+VLTO,2023-10-04,2024-12-31,incomplete history; missing values,Veralto,Industrials
+VRSN,2021-01-04,2024-12-31,,Verisign,Information Technology
+VRSK,2021-01-04,2024-12-31,,Verisk Analytics,Industrials
+VZ,2021-01-04,2024-12-31,,Verizon,Communication Services
+VRTX,2021-01-04,2024-12-31,,Vertex Pharmaceuticals,Health Care
+VRT,2021-01-04,2024-12-31,,Vertiv,Industrials
+VTRS,2021-01-04,2024-12-31,,Viatris,Health Care
+VICI,2021-01-04,2024-12-31,,Vici Properties,Real Estate
+V,2021-01-04,2024-12-31,,Visa Inc.,Financials
+VST,2021-01-04,2024-12-31,,Vistra Corp.,Utilities
+VMRK,2021-01-04,2024-12-31,,Vivmark Residential,Real Estate
+VMC,2021-01-04,2024-12-31,,Vulcan Materials Company,Materials
+VYLR,,,no data,Vylor,Consumer Staples
+WRB,2021-01-04,2024-12-31,,W. R. Berkley Corporation,Financials
+GWW,2021-01-04,2024-12-31,,W. W. Grainger,Industrials
+WAB,2021-01-04,2024-12-31,,Wabtec,Industrials
+WMT,2021-01-04,2024-12-31,,Walmart,Consumer Staples
+DIS,2021-01-04,2024-12-31,,Walt Disney Company (The),Communication Services
+WM,2021-01-04,2024-12-31,,Waste Management,Industrials
+WAT,2021-01-04,2024-12-31,,Waters Corporation,Health Care
+WEC,2021-01-04,2024-12-31,,WEC Energy Group,Utilities
+WFC,2021-01-04,2024-12-31,,Wells Fargo,Financials
+WELL,2021-01-04,2024-12-31,,Welltower,Real Estate
+WST,2021-01-04,2024-12-31,,West Pharmaceutical Services,Health Care
+WDC,2021-01-04,2024-12-31,,Western Digital,Information Technology
+WY,2021-01-04,2024-12-31,,Weyerhaeuser,Real Estate
+WSM,2021-01-04,2024-12-31,,"Williams-Sonoma, Inc.",Consumer Discretionary
+WMB,2021-01-04,2024-12-31,,Williams Companies,Energy
+WTW,2021-01-04,2024-12-31,,Willis Towers Watson,Financials
+WDAY,2021-01-04,2024-12-31,,"Workday, Inc.",Information Technology
+WYNN,2021-01-04,2024-12-31,,Wynn Resorts,Consumer Discretionary
+XEL,2021-01-04,2024-12-31,,Xcel Energy,Utilities
+XYL,2021-01-04,2024-12-31,,Xylem Inc.,Industrials
+YUM,2021-01-04,2024-12-31,,Yum! Brands,Consumer Discretionary
+ZBRA,2021-01-04,2024-12-31,,Zebra Technologies,Information Technology
+ZBH,2021-01-04,2024-12-31,,Zimmer Biomet,Health Care
+ZTS,2021-01-04,2024-12-31,,Zoetis,Health Care

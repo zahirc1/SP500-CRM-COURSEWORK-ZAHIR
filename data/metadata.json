@@ -1,0 +1,24 @@
+{
+  "ticker_source": "https://en.wikipedia.org/wiki/List_of_S%26P_500_companies",
+  "ticker_retrieved_utc": "2026-11-19T11:21:38+00:00",
+  "start": "2021-01-01",
+  "end_exclusive": "2025-01-01",
+  "price_source": "yfinance",
+  "benchmark": "^GSPC",
+  "versions": {
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "yfinance": "0.2.66",
+    "matplotlib": "3.10.0",
+    "seaborn": "0.13.2",
+    "scipy": "1.16.3",
+    "sklearn": "1.6.1",
+    "python": "3.13.18"
+  },
+  "price_downloaded_utc": "2026-11-19T11:23:38+00:00",
+  "observation_date": "2024-12-31",
+  "window": [
+    "2024-10-07",
+    "2024-12-31"
+  ]
+}
